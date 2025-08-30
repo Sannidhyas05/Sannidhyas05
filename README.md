@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F7F7F7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sannidhya;📱+React+Native+%26+Android+Developer;☁️+Exploring+Backend+and+Databases;🎯+Problem+Solver+%26+Team+Player)](https://git.io/typing-svg)
 
-<p align="center"><img src="coder.gif" width="500" alt="coder.gif"></p>     
+<p align="center"><img src="https://github.com/Sannidhyas05/Sannidhyas05/blob/main/giphy.gif" width="500" alt="coder.gif"></p>     
 
 ---
 
