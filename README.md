@@ -7,7 +7,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 <div align="center">
-  <img align="right" width="250" src="rick.jpg" alt="Programmer meme"/>
+  <img align="right" width="250" src="https://github.com/Sannidhyas05/Sannidhyas05/blob/main/Gemini_Generated_Image_mx46u3mx46u3mx46.png" alt="Programmer meme"/>
   
   <div align="left">
     
@@ -17,8 +17,8 @@
 - 🎯 Strong in **DSA, OOP, and algorithm optimization**.  
 - 🛠️ Currently developing a **team-builder platform** for university collaboration.  
 - 🏆 Secured **State Rank 1 in Mathematics Olympiad (2019)**.  
+- ♟️ Competitive **chess player**, applying strategy and foresight to both coding and problem-solving.  
 - 🐞 Always learning, debugging, and building better solutions.  
-
   </div>
 </div>
 
